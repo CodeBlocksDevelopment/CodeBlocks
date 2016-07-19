@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1432596119 source:/home/welder/CodeBlocksProjects/StringGets/main.c
+	<stdio.h>
+	<stdlib.h>
+

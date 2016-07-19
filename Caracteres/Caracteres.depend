@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1458327003 source:/home/welder/CodeBlocksProjects/Caracteres/main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1430692233 source:/home/welder/CodeBlocksProjects/Questao9/main.c
+	<stdio.h>
+	<stdlib.h>
+

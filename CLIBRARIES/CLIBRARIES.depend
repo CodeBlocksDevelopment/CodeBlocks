@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1458330134 source:/home/welder/CodeBlocksProjects/CLIBRARIES/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<cctype>
+

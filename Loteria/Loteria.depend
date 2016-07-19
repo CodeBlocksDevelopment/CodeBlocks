@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1463184838 source:/home/welder/CodeBlocksProjects/Loteria/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

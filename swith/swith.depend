@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1462572137 source:/home/welder/CodeBlocksProjects/swith/main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+

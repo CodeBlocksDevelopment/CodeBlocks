@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1430737754 source:/home/welder/CodeBlocksProjects/Aluno/main.c
+	<stdio.h>
+	<stdlib.h>
+

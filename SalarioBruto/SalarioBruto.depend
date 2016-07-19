@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1459514921 source:/home/welder/CodeBlocksProjects/SalarioBruto/main.cpp
+	<iostream>
+	<iomanip>
+
