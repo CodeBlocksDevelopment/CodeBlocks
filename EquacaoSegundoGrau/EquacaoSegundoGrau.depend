@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1469540667 source:/home/welder/CodeBlocksProjects/EquacaoSegundoGrau/main.cpp
+	<iostream>
+	<math.h>
+

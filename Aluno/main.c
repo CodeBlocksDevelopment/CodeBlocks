@@ -1,5 +1,6 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include <iostream>
+#include <cstdio.h>
+#include <cstdlib.h>
 
 int nota1, nota2;
 float media;
